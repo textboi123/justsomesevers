@@ -1,7 +1,1 @@
-{
-"servers": [
-"laworld.mc-srv.com"
-"play.pika-network.net"
-"pika.host"
-]
-}
+{"servers": ["laworld.mc-srv.com","play.pika-network.net","pika.host"]}
